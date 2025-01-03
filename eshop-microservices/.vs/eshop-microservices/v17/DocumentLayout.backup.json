@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1CE8EEA-5D65-4D7B-A6CE-216DEAC58943}|docker-compose.dcproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D1CE8EEA-5D65-4D7B-A6CE-216DEAC58943}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1CE8EEA-5D65-4D7B-A6CE-216DEAC58943}|docker-compose.dcproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D1CE8EEA-5D65-4D7B-A6CE-216DEAC58943}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CE8EEA-5D65-4D7B-A6CE-216DEAC58943}|docker-compose.dcproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D1CE8EEA-5D65-4D7B-A6CE-216DEAC58943}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1CE8EEA-5D65-4D7B-A6CE-216DEAC58943}|docker-compose.dcproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -41,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 250,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,25 +79,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "docker-compose.override.yml",
               "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\docker-compose.override.yml",
               "RelativeDocumentMoniker": "docker-compose.override.yml",
               "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\docker-compose.override.yml",
               "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-01-03T12:11:42.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\docker-compose.yml*",
+              "RelativeToolTip": "docker-compose.yml*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-01-03T12:11:31.75Z",
