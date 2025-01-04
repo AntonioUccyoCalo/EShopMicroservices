@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\eshop-microservices",
+    "\\eshop-microservices\\Services",
+    "\\eshop-microservices\\Services\\Catalog"
   ],
   "PreviewInSolutionExplorer": false
 }

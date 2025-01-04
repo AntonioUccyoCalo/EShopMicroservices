@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BioldingBlocks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a0a12caaddb8fee0e0354cf761fec3a88e17df9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c85ef361b8bee9195af8c15c3d7f4f2d482a652c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BioldingBlocks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BioldingBlocks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
