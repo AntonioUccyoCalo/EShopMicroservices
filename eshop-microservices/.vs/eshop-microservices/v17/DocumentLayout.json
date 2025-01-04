@@ -3,36 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{19647F28-2434-4B8D-9F43-94093A53EF1E}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19647F28-2434-4B8D-9F43-94093A53EF1E}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\services\\catalog\\catalog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{19647F28-2434-4B8D-9F43-94093A53EF1E}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\services\\catalog\\catalog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19647F28-2434-4B8D-9F43-94093A53EF1E}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\services\\catalog\\catalog.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AC748F16-C7C6-4AD1-BF13-A7D3F805A815}|docker-compose.dcproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC748F16-C7C6-4AD1-BF13-A7D3F805A815}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\services\\catalog\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AC748F16-C7C6-4AD1-BF13-A7D3F805A815}|docker-compose.dcproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AC748F16-C7C6-4AD1-BF13-A7D3F805A815}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\services\\catalog\\catalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AC748F16-C7C6-4AD1-BF13-A7D3F805A815}|docker-compose.dcproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AC748F16-C7C6-4AD1-BF13-A7D3F805A815}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\services\\catalog\\catalog.api\\catalog.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\catalog.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{AC748F16-C7C6-4AD1-BF13-A7D3F805A815}|docker-compose.dcproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AC748F16-C7C6-4AD1-BF13-A7D3F805A815}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19647F28-2434-4B8D-9F43-94093A53EF1E}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\services\\catalog\\catalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19647F28-2434-4B8D-9F43-94093A53EF1E}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\services\\catalog\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BABFC72-544C-4C61-ADD1-C3850383FFAF}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19647F28-2434-4B8D-9F43-94093A53EF1E}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\antonio\\source\\repos\\eshopmicroservices\\eshop-microservices\\services\\catalog\\catalog.api\\catalog.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{19647F28-2434-4B8D-9F43-94093A53EF1E}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\catalog.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +45,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 250,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Catalog.API",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T14:49:11.624Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -54,28 +70,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\appsettings.json",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-04T11:05:11.217Z",
+              "DocumentIndex": 5,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-04T14:44:47.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\appsettings.Development.json",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-03T11:53:04.808Z",
+              "WhenOpened": "2025-01-04T14:44:30.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T12:27:11.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-04T12:26:10.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-04T12:26:12.195Z",
               "EditorCaption": ""
             },
             {
@@ -86,72 +145,34 @@
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Dockerfile",
               "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Dockerfile",
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-03T12:06:56.022Z",
+              "WhenOpened": "2025-01-04T14:33:35.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Catalog.API",
-              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-04T11:27:22.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Catalog.API",
               "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-04T11:28:11.751Z",
+              "WhenOpened": "2025-01-04T12:44:34.31Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwDAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-04T11:28:59.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Program.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T11:47:42.965Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CreateProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T14:38:16.562Z",
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-04T14:34:37.024Z",
               "EditorCaption": ""
             }
           ]
