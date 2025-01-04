@@ -1,4 +1,4 @@
-name: dockercompose10400142451443792417
+name: dockercompose1575227359952208996
 services:
   catalogdb:
     container_name: catalogdb
@@ -22,7 +22,7 @@ services:
         volume: {}
 networks:
   default:
-    name: dockercompose10400142451443792417_default
+    name: dockercompose1575227359952208996_default
 volumes:
   postgres_catalog:
-    name: dockercompose10400142451443792417_postgres_catalog
+    name: dockercompose1575227359952208996_postgres_catalog

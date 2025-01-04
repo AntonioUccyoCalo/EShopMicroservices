@@ -4,14 +4,14 @@
     "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\BuildingBlocks\\BioldingBlocks\\BioldingBlocks.csproj": {
+    "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\BuildingBlocks\\BioldingBlocks\\BioldingBlocks.csproj",
-        "projectName": "BioldingBlocks",
-        "projectPath": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\BuildingBlocks\\BioldingBlocks\\BioldingBlocks.csproj",
+        "projectUniqueName": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+        "projectName": "BuildingBlocks",
+        "projectPath": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
         "packagesPath": "C:\\Users\\Antonio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\BuildingBlocks\\BioldingBlocks\\obj\\",
+        "outputPath": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\BuildingBlocks\\BuildingBlocks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,8 +109,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\BuildingBlocks\\BioldingBlocks\\BioldingBlocks.csproj": {
-                "projectPath": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\BuildingBlocks\\BioldingBlocks\\BioldingBlocks.csproj"
+              "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {
+                "projectPath": "C:\\Users\\Antonio\\source\\repos\\EShopMicroservices\\eshop-microservices\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj"
               }
             }
           }
@@ -133,7 +133,7 @@
           "dependencies": {
             "Carter": {
               "target": "Package",
-              "version": "[8.2.1, )"
+              "version": "[8.0.0, )"
             },
             "Marten": {
               "target": "Package",
@@ -141,7 +141,7 @@
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
-              "version": "[1.21.0, )"
+              "version": "[1.19.5, )"
             }
           },
           "imports": [

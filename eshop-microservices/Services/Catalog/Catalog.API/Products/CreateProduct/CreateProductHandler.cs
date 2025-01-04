@@ -1,30 +1,32 @@
-﻿
+﻿namespace Catalog.API.Products.CreateProduct;
 
+public record CreateProductCommand(string Name, List<string> Category, string Description, string ImageFile, decimal Price)
+    : ICommand<CreateProductResult>;
+public record CreateProductResult(Guid Id);
 
-namespace Catalog.API.Products.CreateProduct
+internal class CreateProductCommandHandler(IDocumentSession session)
+    : ICommandHandler<CreateProductCommand, CreateProductResult>
 {
-    public record CreateProductCommand(string Name, List<string> Category, string Description, string Imagefile, decimal Price) : IRequest<CreateProductResult>;
-    public record CreateProductResult(Guid Id);
-    internal class CreateProductComamandHandler(IDocumentSession session) : IRequestHandler<CreateProductCommand, CreateProductResult>
+    public async Task<CreateProductResult> Handle(CreateProductCommand command, CancellationToken cancellationToken)
     {
-        public async Task<CreateProductResult> Handle(CreateProductCommand command, CancellationToken cancellationToken)
-        {
-            //create Product entity from comand
-            var product = new Product
-            {
-                Name = command.Name,
-                Category = command.Category,
-                Description = command.Description,
-                Imagefile = command.Imagefile,
-                Price = command.Price
-            };
-            //Save to db
-            session.Store(product);
-            //cancellationToken serve per annullare la chiamata in corso se un utente o un processo decidde di fermarla, per farlo andrebbe assegnato/recuperato un id univoco
-            await session.SaveChangesAsync(cancellationToken);
+        //create Product entity from command object
+        //save to database
+        //return CreateProductResult result
 
-            //return 
-            return new CreateProductResult(product.Id); 
-        }
+        var product = new Product
+        {
+            Name = command.Name,
+            Category = command.Category,
+            Description = command.Description,
+            ImageFile = command.ImageFile,
+            Price = command.Price
+        };
+        
+        //save to database
+        session.Store(product);
+        await session.SaveChangesAsync(cancellationToken);
+
+        //return result
+        return new CreateProductResult(product.Id);
     }
 }

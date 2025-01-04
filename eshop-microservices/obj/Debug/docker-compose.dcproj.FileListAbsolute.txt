@@ -1,1 +1,2 @@
+C:\Users\Antonio\Source\Repos\EShopMicroservices-Udemy-Sections\section6\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 C:\Users\Antonio\source\repos\EShopMicroservices\eshop-microservices\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
